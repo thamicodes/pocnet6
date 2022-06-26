@@ -1,0 +1,90 @@
+/Users/thamiresgomessilva/Documents/Repositorios/Net6_CRUD_POstgree/CodeBehind.PostGreSQL/bin/Debug/net6.0/appsettings.Development.json
+/Users/thamiresgomessilva/Documents/Repositorios/Net6_CRUD_POstgree/CodeBehind.PostGreSQL/bin/Debug/net6.0/appsettings.json
+/Users/thamiresgomessilva/Documents/Repositorios/Net6_CRUD_POstgree/CodeBehind.PostGreSQL/bin/Debug/net6.0/NET6.PostGreSQL.staticwebassets.runtime.json
+/Users/thamiresgomessilva/Documents/Repositorios/Net6_CRUD_POstgree/CodeBehind.PostGreSQL/bin/Debug/net6.0/NET6.PostGreSQL
+/Users/thamiresgomessilva/Documents/Repositorios/Net6_CRUD_POstgree/CodeBehind.PostGreSQL/bin/Debug/net6.0/NET6.PostGreSQL.deps.json
+/Users/thamiresgomessilva/Documents/Repositorios/Net6_CRUD_POstgree/CodeBehind.PostGreSQL/bin/Debug/net6.0/NET6.PostGreSQL.runtimeconfig.json
+/Users/thamiresgomessilva/Documents/Repositorios/Net6_CRUD_POstgree/CodeBehind.PostGreSQL/bin/Debug/net6.0/NET6.PostGreSQL.dll
+/Users/thamiresgomessilva/Documents/Repositorios/Net6_CRUD_POstgree/CodeBehind.PostGreSQL/bin/Debug/net6.0/ref/NET6.PostGreSQL.dll
+/Users/thamiresgomessilva/Documents/Repositorios/Net6_CRUD_POstgree/CodeBehind.PostGreSQL/bin/Debug/net6.0/NET6.PostGreSQL.pdb
+/Users/thamiresgomessilva/Documents/Repositorios/Net6_CRUD_POstgree/CodeBehind.PostGreSQL/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/thamiresgomessilva/Documents/Repositorios/Net6_CRUD_POstgree/CodeBehind.PostGreSQL/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/thamiresgomessilva/Documents/Repositorios/Net6_CRUD_POstgree/CodeBehind.PostGreSQL/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/thamiresgomessilva/Documents/Repositorios/Net6_CRUD_POstgree/CodeBehind.PostGreSQL/bin/Debug/net6.0/Npgsql.dll
+/Users/thamiresgomessilva/Documents/Repositorios/Net6_CRUD_POstgree/CodeBehind.PostGreSQL/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/thamiresgomessilva/Documents/Repositorios/Net6_CRUD_POstgree/CodeBehind.PostGreSQL/obj/Debug/net6.0/NET6.PostGreSQL.csproj.AssemblyReference.cache
+/Users/thamiresgomessilva/Documents/Repositorios/Net6_CRUD_POstgree/CodeBehind.PostGreSQL/obj/Debug/net6.0/NET6.PostGreSQL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thamiresgomessilva/Documents/Repositorios/Net6_CRUD_POstgree/CodeBehind.PostGreSQL/obj/Debug/net6.0/NET6.PostGreSQL.AssemblyInfoInputs.cache
+/Users/thamiresgomessilva/Documents/Repositorios/Net6_CRUD_POstgree/CodeBehind.PostGreSQL/obj/Debug/net6.0/NET6.PostGreSQL.AssemblyInfo.cs
+/Users/thamiresgomessilva/Documents/Repositorios/Net6_CRUD_POstgree/CodeBehind.PostGreSQL/obj/Debug/net6.0/NET6.PostGreSQL.csproj.CoreCompileInputs.cache
+/Users/thamiresgomessilva/Documents/Repositorios/Net6_CRUD_POstgree/CodeBehind.PostGreSQL/obj/Debug/net6.0/NET6.PostGreSQL.MvcApplicationPartsAssemblyInfo.cache
+/Users/thamiresgomessilva/Documents/Repositorios/Net6_CRUD_POstgree/CodeBehind.PostGreSQL/obj/Debug/net6.0/NET6.PostGreSQL.RazorAssemblyInfo.cache
+/Users/thamiresgomessilva/Documents/Repositorios/Net6_CRUD_POstgree/CodeBehind.PostGreSQL/obj/Debug/net6.0/NET6.PostGreSQL.RazorAssemblyInfo.cs
+/Users/thamiresgomessilva/Documents/Repositorios/Net6_CRUD_POstgree/CodeBehind.PostGreSQL/obj/Debug/net6.0/staticwebassets.build.json
+/Users/thamiresgomessilva/Documents/Repositorios/Net6_CRUD_POstgree/CodeBehind.PostGreSQL/obj/Debug/net6.0/staticwebassets.development.json
+/Users/thamiresgomessilva/Documents/Repositorios/Net6_CRUD_POstgree/CodeBehind.PostGreSQL/obj/Debug/net6.0/scopedcss/bundle/NET6.PostGreSQL.styles.css
+/Users/thamiresgomessilva/Documents/Repositorios/Net6_CRUD_POstgree/CodeBehind.PostGreSQL/obj/Debug/net6.0/NET6.PostGreSQL.csproj.CopyComplete
+/Users/thamiresgomessilva/Documents/Repositorios/Net6_CRUD_POstgree/CodeBehind.PostGreSQL/obj/Debug/net6.0/NET6.PostGreSQL.dll
+/Users/thamiresgomessilva/Documents/Repositorios/Net6_CRUD_POstgree/CodeBehind.PostGreSQL/obj/Debug/net6.0/ref/NET6.PostGreSQL.dll
+/Users/thamiresgomessilva/Documents/Repositorios/Net6_CRUD_POstgree/CodeBehind.PostGreSQL/obj/Debug/net6.0/NET6.PostGreSQL.pdb
+/Users/thamiresgomessilva/Documents/Repositorios/Net6_CRUD_POstgree/CodeBehind.PostGreSQL/obj/Debug/net6.0/NET6.PostGreSQL.genruntimeconfig.cache
+/Users/thamiresgomessilva/Documents/Repositorios/pocnet6/bin/Debug/net6.0/appsettings.Development.json
+/Users/thamiresgomessilva/Documents/Repositorios/pocnet6/bin/Debug/net6.0/appsettings.json
+/Users/thamiresgomessilva/Documents/Repositorios/pocnet6/bin/Debug/net6.0/NET6.PostGreSQL.staticwebassets.runtime.json
+/Users/thamiresgomessilva/Documents/Repositorios/pocnet6/bin/Debug/net6.0/NET6.PostGreSQL
+/Users/thamiresgomessilva/Documents/Repositorios/pocnet6/bin/Debug/net6.0/NET6.PostGreSQL.deps.json
+/Users/thamiresgomessilva/Documents/Repositorios/pocnet6/bin/Debug/net6.0/NET6.PostGreSQL.runtimeconfig.json
+/Users/thamiresgomessilva/Documents/Repositorios/pocnet6/bin/Debug/net6.0/NET6.PostGreSQL.dll
+/Users/thamiresgomessilva/Documents/Repositorios/pocnet6/bin/Debug/net6.0/NET6.PostGreSQL.pdb
+/Users/thamiresgomessilva/Documents/Repositorios/pocnet6/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/thamiresgomessilva/Documents/Repositorios/pocnet6/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/thamiresgomessilva/Documents/Repositorios/pocnet6/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/thamiresgomessilva/Documents/Repositorios/pocnet6/bin/Debug/net6.0/Npgsql.dll
+/Users/thamiresgomessilva/Documents/Repositorios/pocnet6/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/thamiresgomessilva/Documents/Repositorios/pocnet6/obj/Debug/net6.0/NET6.PostGreSQL.csproj.AssemblyReference.cache
+/Users/thamiresgomessilva/Documents/Repositorios/pocnet6/obj/Debug/net6.0/NET6.PostGreSQL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thamiresgomessilva/Documents/Repositorios/pocnet6/obj/Debug/net6.0/NET6.PostGreSQL.AssemblyInfoInputs.cache
+/Users/thamiresgomessilva/Documents/Repositorios/pocnet6/obj/Debug/net6.0/NET6.PostGreSQL.AssemblyInfo.cs
+/Users/thamiresgomessilva/Documents/Repositorios/pocnet6/obj/Debug/net6.0/NET6.PostGreSQL.csproj.CoreCompileInputs.cache
+/Users/thamiresgomessilva/Documents/Repositorios/pocnet6/obj/Debug/net6.0/NET6.PostGreSQL.MvcApplicationPartsAssemblyInfo.cache
+/Users/thamiresgomessilva/Documents/Repositorios/pocnet6/obj/Debug/net6.0/NET6.PostGreSQL.RazorAssemblyInfo.cache
+/Users/thamiresgomessilva/Documents/Repositorios/pocnet6/obj/Debug/net6.0/NET6.PostGreSQL.RazorAssemblyInfo.cs
+/Users/thamiresgomessilva/Documents/Repositorios/pocnet6/obj/Debug/net6.0/staticwebassets.build.json
+/Users/thamiresgomessilva/Documents/Repositorios/pocnet6/obj/Debug/net6.0/staticwebassets.development.json
+/Users/thamiresgomessilva/Documents/Repositorios/pocnet6/obj/Debug/net6.0/scopedcss/bundle/NET6.PostGreSQL.styles.css
+/Users/thamiresgomessilva/Documents/Repositorios/pocnet6/obj/Debug/net6.0/NET6.PostGreSQL.csproj.CopyComplete
+/Users/thamiresgomessilva/Documents/Repositorios/pocnet6/obj/Debug/net6.0/NET6.PostGreSQL.dll
+/Users/thamiresgomessilva/Documents/Repositorios/pocnet6/obj/Debug/net6.0/ref/NET6.PostGreSQL.dll
+/Users/thamiresgomessilva/Documents/Repositorios/pocnet6/obj/Debug/net6.0/NET6.PostGreSQL.pdb
+/Users/thamiresgomessilva/Documents/Repositorios/pocnet6/obj/Debug/net6.0/NET6.PostGreSQL.genruntimeconfig.cache
+/Users/thamiresgomessilva/Documents/Repositorios/pocnet6/obj/Debug/net6.0/refint/NET6.PostGreSQL.dll
+/Users/thamiresgomessilva/Desktop/Pasta Sem Título/pocnet6/bin/Debug/net6.0/appsettings.Development.json
+/Users/thamiresgomessilva/Desktop/Pasta Sem Título/pocnet6/bin/Debug/net6.0/appsettings.json
+/Users/thamiresgomessilva/Desktop/Pasta Sem Título/pocnet6/bin/Debug/net6.0/NET6.PostGreSQL.staticwebassets.runtime.json
+/Users/thamiresgomessilva/Desktop/Pasta Sem Título/pocnet6/bin/Debug/net6.0/NET6.PostGreSQL
+/Users/thamiresgomessilva/Desktop/Pasta Sem Título/pocnet6/bin/Debug/net6.0/NET6.PostGreSQL.deps.json
+/Users/thamiresgomessilva/Desktop/Pasta Sem Título/pocnet6/bin/Debug/net6.0/NET6.PostGreSQL.runtimeconfig.json
+/Users/thamiresgomessilva/Desktop/Pasta Sem Título/pocnet6/bin/Debug/net6.0/NET6.PostGreSQL.dll
+/Users/thamiresgomessilva/Desktop/Pasta Sem Título/pocnet6/bin/Debug/net6.0/NET6.PostGreSQL.pdb
+/Users/thamiresgomessilva/Desktop/Pasta Sem Título/pocnet6/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/thamiresgomessilva/Desktop/Pasta Sem Título/pocnet6/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/thamiresgomessilva/Desktop/Pasta Sem Título/pocnet6/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/thamiresgomessilva/Desktop/Pasta Sem Título/pocnet6/bin/Debug/net6.0/Npgsql.dll
+/Users/thamiresgomessilva/Desktop/Pasta Sem Título/pocnet6/bin/Debug/net6.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/thamiresgomessilva/Desktop/Pasta Sem Título/pocnet6/obj/Debug/net6.0/NET6.PostGreSQL.csproj.AssemblyReference.cache
+/Users/thamiresgomessilva/Desktop/Pasta Sem Título/pocnet6/obj/Debug/net6.0/NET6.PostGreSQL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thamiresgomessilva/Desktop/Pasta Sem Título/pocnet6/obj/Debug/net6.0/NET6.PostGreSQL.AssemblyInfoInputs.cache
+/Users/thamiresgomessilva/Desktop/Pasta Sem Título/pocnet6/obj/Debug/net6.0/NET6.PostGreSQL.AssemblyInfo.cs
+/Users/thamiresgomessilva/Desktop/Pasta Sem Título/pocnet6/obj/Debug/net6.0/NET6.PostGreSQL.csproj.CoreCompileInputs.cache
+/Users/thamiresgomessilva/Desktop/Pasta Sem Título/pocnet6/obj/Debug/net6.0/NET6.PostGreSQL.MvcApplicationPartsAssemblyInfo.cache
+/Users/thamiresgomessilva/Desktop/Pasta Sem Título/pocnet6/obj/Debug/net6.0/NET6.PostGreSQL.RazorAssemblyInfo.cache
+/Users/thamiresgomessilva/Desktop/Pasta Sem Título/pocnet6/obj/Debug/net6.0/NET6.PostGreSQL.RazorAssemblyInfo.cs
+/Users/thamiresgomessilva/Desktop/Pasta Sem Título/pocnet6/obj/Debug/net6.0/staticwebassets.build.json
+/Users/thamiresgomessilva/Desktop/Pasta Sem Título/pocnet6/obj/Debug/net6.0/staticwebassets.development.json
+/Users/thamiresgomessilva/Desktop/Pasta Sem Título/pocnet6/obj/Debug/net6.0/scopedcss/bundle/NET6.PostGreSQL.styles.css
+/Users/thamiresgomessilva/Desktop/Pasta Sem Título/pocnet6/obj/Debug/net6.0/NET6.PostGreSQL.csproj.CopyComplete
+/Users/thamiresgomessilva/Desktop/Pasta Sem Título/pocnet6/obj/Debug/net6.0/NET6.PostGreSQL.dll
+/Users/thamiresgomessilva/Desktop/Pasta Sem Título/pocnet6/obj/Debug/net6.0/refint/NET6.PostGreSQL.dll
+/Users/thamiresgomessilva/Desktop/Pasta Sem Título/pocnet6/obj/Debug/net6.0/NET6.PostGreSQL.pdb
+/Users/thamiresgomessilva/Desktop/Pasta Sem Título/pocnet6/obj/Debug/net6.0/NET6.PostGreSQL.genruntimeconfig.cache
+/Users/thamiresgomessilva/Desktop/Pasta Sem Título/pocnet6/obj/Debug/net6.0/ref/NET6.PostGreSQL.dll
