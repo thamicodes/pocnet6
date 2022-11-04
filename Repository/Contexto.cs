@@ -11,4 +11,5 @@ namespace CodeBehind.PostGreSQL.Repository
            : base(options)
         { }
     }
+
 }
