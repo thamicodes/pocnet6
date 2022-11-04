@@ -8,7 +8,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
 namespace CodeBehind.PostGreSQL
-{
+{ 
     public class Startup
     {
         public Startup(IConfiguration configuration)
